@@ -1,5 +1,5 @@
 # FLTTask
-Loan Calculatore React JS Project
+#Loan Calculatore React JS Project
 What is the use of this Repo
 1. Creating a Component in React
 2. Using Bootstrap along with React
