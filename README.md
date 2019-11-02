@@ -17,4 +17,5 @@
 **2. Records Componetns** : This component contains the records of all previously checked loan amount. It displays Principal amount,No of Months,Interest,EMI in bootstrap table format. It stores array value in Localstorage and get from Localstorage each time.
 
 ## Resources
-create-react-app : The following link has all the commands that can be used with create-react-app
+**create-react-app** : The following link has all the commands that can be used with create-react-app
+https://www.npmjs.com/package/axios
