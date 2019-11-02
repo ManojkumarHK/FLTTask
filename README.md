@@ -8,4 +8,5 @@
 1. Install Node JS
 2. Install create-react-app
 3. Install react-input-range
-4. Install axios
+4. Install react-dom
+5. Install axios
