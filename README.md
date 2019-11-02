@@ -11,5 +11,5 @@
 4. Install react-dom
 5. Install axios
 ## Application design
-
+### Components
 
