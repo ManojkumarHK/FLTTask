@@ -18,4 +18,12 @@
 
 ## Resources
 **create-react-app** : The following link has all the commands that can be used with create-react-app
-https://www.npmjs.com/package/axios
+https://reactjs.org/docs/create-a-new-react-app.html
+
+**react-rangeslider** : The following link has all the commands that can be used with create-react-app
+https://www.npmjs.com/package/react-rangeslider
+
+**install axios** : The following link has all the commands that can be used with create-react-app
+https://www.npmjs.com/package/axios 
+
+
