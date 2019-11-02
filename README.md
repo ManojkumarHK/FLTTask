@@ -10,3 +10,6 @@
 3. Install react-input-range
 4. Install react-dom
 5. Install axios
+## Application design
+
+
