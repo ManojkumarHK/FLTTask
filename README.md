@@ -12,5 +12,5 @@
 5. Install axios
 ## Application design
 ### Components
-1. Home : This components containes renge sliders where users can select the loan amount and number months. It returns and displays rate of interest and how much monthly amount they have pay.
+**1. Home** : This components contains renge sliders where users can select the loan amount and number months. This components gets it's data from API usin axios. It returns and displays rate of interest and how much monthly amount they have pay.
 
