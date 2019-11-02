@@ -5,3 +5,7 @@
 2. Using Bootstrap along with React
 3. Using Basic Routing in React
 ## Prerequisites
+1. Install Node JS
+2. Install create-react-app
+3. Install react-input-range
+4. Install axios
